@@ -8,3 +8,10 @@ A quick example of a node backend using a React frontend
 node server.js
 ```
 
+### Run Local Dev
+
+```
+npm run dev
+```
+
+Visit: `http://localhost:5173`
